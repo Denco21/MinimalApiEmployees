@@ -14,5 +14,5 @@ Projektet är byggt med följande teknologier:
 
 .NET 8
 C#
-SQL Server
+SQL Server,
 Dapper för databasinteraktioner
